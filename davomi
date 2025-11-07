@@ -1,0 +1,42 @@
+No13
+ x=["Rayhona","Ruxshona","Kamola"]
+ for i in range(x):
+     print(f"{i}-mijozga xizmat ko'rsatilmoqda")
+o14
+// for i in range(1,n):
+//     n=int(input('energiya sarfi'))
+//     print(f"{i}-sarflandi")
+  / no15
+// x=['qoshiq1','qoshiq2','qoshiq3','pause','qoshiq4','qoshiq5']
+// for i in x:
+//     if i=='pause'
+//     break
+//      print('toxtatildi')
+  No16
+for i in range(1,n):
+   n=int(input('bolaklar sonini kiriting'))
+   print(f"{i}-bolak yeyildi")
+print('pitza tugadi')
+No17
+for i in range(1,8):
+   if n<=5:
+   print(f"{i}-kichi xizmat oldi")
+No18
+while kutish>=10:
+  kutish=int(input('kutish vaqti')
+  break
+  print('chiqish')
+No19
+i=" "
+while i=="998886470902":
+     
+     i=int(input('telefon kodini kiting'))
+     break
+     print('togri raqam kiritdingiz')
+No20
+for i in range(1,11):
+    if i<=8:
+      print('nishonga tekiza olmadiz')
+      continue
+    else:
+      print('nishonga tegdi')
