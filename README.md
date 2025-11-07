@@ -125,3 +125,9 @@ for parol in range(4):
         break
 else:
     print('tizim bloklandi')    
+No9
+n=int(input('hisob kiriting'))
+for i in range(n):
+  while n==o:
+    break
+    print('tizim yopildi')
