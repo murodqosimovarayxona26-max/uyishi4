@@ -131,3 +131,6 @@ for i in range(n):
   while n==o:
     break
     print('tizim yopildi')
+# no11
+# for i in range(1,26):
+#     print('xabar yuborilmoqda',i)
