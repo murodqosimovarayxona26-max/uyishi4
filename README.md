@@ -82,7 +82,10 @@
 #         break
 #         print(i)
 #No20
-
+# for i in range(1,10)
+#   if i%2==0:
+#    continue
+#     print(i)
 
 
 # No1
@@ -91,7 +94,8 @@
 # while i==3:
 #     break
 # print('kofe tayyor')
-# for i in range (1,10):
-#     if i%2==0:
-#         continue
-#     print(i)
+for i in range(6):
+#     print('soprtchi yugurdi',i)
+# while i==5:
+#     break
+# print('sportchi berilgan masofani bosib otdi')
