@@ -82,6 +82,15 @@
 #         break
 #         print(i)
 #No20
+
+
+
+# No1
+# for i in range(4):
+#     print('kofe tayyorlanmoqda...',i)
+# while i==3:
+#     break
+# print('kofe tayyor')
 # for i in range (1,10):
 #     if i%2==0:
 #         continue
