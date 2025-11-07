@@ -106,3 +106,10 @@ for i in range(6):
 # royxat=['olma','pomidor','daftar']
 # for i in royxat:
 #     print(i)
+# No5
+# a=' '
+# 
+# while a==0:
+#     # a=int(input('sonni kiriting'))
+#     break
+#     print('tolov tizimi toxtadi')
