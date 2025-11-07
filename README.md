@@ -134,3 +134,9 @@ for i in range(n):
 # no11
 # for i in range(1,26):
 #     print('xabar yuborilmoqda',i)
+#  No10
+# for i in range(1,7):
+#     if i==6:
+#         print('galaba')
+#     else:
+#         print('yutqazdiz')
