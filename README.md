@@ -99,3 +99,6 @@ for i in range(6):
 # while i==5:
 #     break
 # print('sportchi berilgan masofani bosib otdi')
+# No3
+# for i in range(1,11):
+#     print('oquvchilar baholandi',i)
