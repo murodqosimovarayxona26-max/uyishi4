@@ -102,3 +102,7 @@ for i in range(6):
 # No3
 # for i in range(1,11):
 #     print('oquvchilar baholandi',i)
+ No4
+# royxat=['olma','pomidor','daftar']
+# for i in royxat:
+#     print(i)
