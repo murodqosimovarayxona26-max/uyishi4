@@ -113,7 +113,15 @@ for i in range(6):
 #     # a=int(input('sonni kiriting'))
 #     break
 #     print('tolov tizimi toxtadi')
-no5
+no6
 n=int(input('yoqilgi'))
 for i in range(1,n)[::-1]:
     print('yoqilgi kamaymoqda',i)
+No7
+for parol in range(4):
+    parol=int(input('parolni kirting'))
+    if parol==1567:
+        print('muvaffaqiyatli kirdingiz')
+        break
+else:
+    print('tizim bloklandi')    
