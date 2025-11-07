@@ -113,3 +113,7 @@ for i in range(6):
 #     # a=int(input('sonni kiriting'))
 #     break
 #     print('tolov tizimi toxtadi')
+no5
+n=int(input('yoqilgi'))
+for i in range(1,n)[::-1]:
+    print('yoqilgi kamaymoqda',i)
